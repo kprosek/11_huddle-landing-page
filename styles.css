@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;600&display=swap');
 
 * {
   box-sizing: border-box;
@@ -19,7 +19,7 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
 
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 @media (min-width: 1200px) {
@@ -171,10 +171,6 @@ footer {
 
 .link-logo {
   text-align: center;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .link-logo:nth-of-type(1) {
@@ -204,7 +200,7 @@ i:hover {
 
     display: flex;
     justify-content: flex-end;
-    margin-right:20rem;
+    margin-right: 20rem;
   }
 
   i {
