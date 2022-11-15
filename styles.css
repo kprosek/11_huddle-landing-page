@@ -55,7 +55,8 @@ header {
   header {
     max-width: 1440px;
 
-    margin-top: 4rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
   }
 
   .logo-container {
@@ -121,7 +122,6 @@ h1 {
     display: flex;
     max-width: 1440px;
 
-    margin-top: 5rem;
     text-align: left;
   }
 
